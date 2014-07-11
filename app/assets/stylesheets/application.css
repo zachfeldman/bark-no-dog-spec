@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+.dog-photo{
+  max-width: 300px;
+}
+
+nav ul{
+  display: inline;
+  padding: 0;
+}
+
+nav ul li{
+  display: inline;
+  margin-right: 10px;
+}
+
+.logo{
+  font-size: 60px;
+}
