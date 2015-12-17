@@ -10,8 +10,7 @@ RSpec.describe StatusesController, :type => :controller do
       password_confirmation: "testtest",
       birthday: Time.now-3.years,
       city: "New York",
-      state: "NY",
-      newsletter: true
+      state: "NY"
     }
   }
 
